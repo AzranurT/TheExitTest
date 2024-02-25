@@ -1,0 +1,415 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1708823336892973, "dur":1449, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708823336894430, "dur":110, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708823336894572, "dur":521, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708823336895261, "dur":141, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1708823336895536, "dur":178, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level6" }}
+,{ "pid":12345, "tid":0, "ts":1708823336895989, "dur":166, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":0, "ts":1708823336896259, "dur":136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1708823336896601, "dur":316, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708823336897068, "dur":148, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708823336897408, "dur":139, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708823336897779, "dur":144, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708823336898078, "dur":120, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708823336898311, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708823336898450, "dur":126, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708823336898832, "dur":120, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708823336899191, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708823336899558, "dur":118, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1708823336899791, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1708823336900136, "dur":127, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1708823336895122, "dur":5157, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708823336900281, "dur":103215, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708823337003529, "dur":58, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708823337003596, "dur":89, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708823337003685, "dur":168, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708823337004117, "dur":1672, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1708823336895336, "dur":4954, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708823336900293, "dur":3550, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708823336903888, "dur":87, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1708823336903990, "dur":180, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1708823336904295, "dur":61, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\engin\\OneDrive\\Desktop\\azra\\The-Exit-Test-main\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336904356, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\engin\\OneDrive\\Desktop\\azra\\The-Exit-Test-main\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336904445, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\engin\\OneDrive\\Desktop\\azra\\The-Exit-Test-main\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336904573, "dur":166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\engin\\OneDrive\\Desktop\\azra\\The-Exit-Test-main\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336904739, "dur":245, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\engin\\OneDrive\\Desktop\\azra\\The-Exit-Test-main\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336904985, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\engin\\OneDrive\\Desktop\\azra\\The-Exit-Test-main\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336905044, "dur":173, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\engin\\OneDrive\\Desktop\\azra\\The-Exit-Test-main\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336903988, "dur":1311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1708823336905641, "dur":3420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1708823336909063, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1708823336910335, "dur":5219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1708823336915573, "dur":489, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708823336917133, "dur":13139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336930320, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708823336930517, "dur":10057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336940692, "dur":604, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708823336941315, "dur":170, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708823336941493, "dur":8068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336949659, "dur":10573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336960289, "dur":527, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708823336970926, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708823336960842, "dur":10220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336971177, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708823336971339, "dur":10340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1708823336981780, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708823336981879, "dur":9032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":1, "ts":1708823336991026, "dur":709, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1708823336991760, "dur":7567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level4.resS" }}
+,{ "pid":12345, "tid":1, "ts":1708823336999365, "dur":4052, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336897762, "dur":3464, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336901227, "dur":2761, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336903990, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1708823336915649, "dur":2317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1708823336918010, "dur":205, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336918239, "dur":11806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708823336930067, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336930274, "dur":10832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708823336941212, "dur":719, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336949432, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336941968, "dur":7538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708823336949546, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336949663, "dur":9374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708823336959093, "dur":579, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336959698, "dur":9186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708823336968986, "dur":602, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336969621, "dur":8845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1708823336978509, "dur":386, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336978925, "dur":4966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":2, "ts":1708823336983987, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336984080, "dur":10100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1708823336994255, "dur":672, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1708823336995025, "dur":7072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level2.resS" }}
+,{ "pid":12345, "tid":2, "ts":1708823337002151, "dur":1305, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336896340, "dur":4176, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336900523, "dur":528, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336901052, "dur":2835, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336906109, "dur":3048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1708823336909207, "dur":1183, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336911225, "dur":5667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1708823336916951, "dur":174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336928562, "dur":7760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708823336936409, "dur":254, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336936719, "dur":227, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336936953, "dur":9992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708823336946987, "dur":514, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336955979, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336947520, "dur":8547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708823336956199, "dur":634, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336965475, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336956898, "dur":8654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708823336965669, "dur":530, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336966227, "dur":9483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708823336975820, "dur":653, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336976545, "dur":12379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1708823336989011, "dur":652, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336989693, "dur":7743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level6.resS" }}
+,{ "pid":12345, "tid":3, "ts":1708823336997520, "dur":391, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1708823336997935, "dur":5126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1708823337003087, "dur":347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336895613, "dur":4698, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336900314, "dur":835, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336901149, "dur":2754, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336903905, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1708823336913623, "dur":3671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1708823336917343, "dur":275, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336929323, "dur":9165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708823336938552, "dur":407, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336939026, "dur":10171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708823336949220, "dur":202, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336949475, "dur":10157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708823336959750, "dur":381, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336960212, "dur":10124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708823336970451, "dur":481, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336970946, "dur":56, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336971009, "dur":10473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1708823336981591, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336990160, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336981727, "dur":8516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":4, "ts":1708823336990342, "dur":670, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1708823336991043, "dur":8931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level5" }}
+,{ "pid":12345, "tid":4, "ts":1708823337000046, "dur":3430, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336895497, "dur":4805, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336900308, "dur":426, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336900735, "dur":104, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336900839, "dur":3108, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336903948, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1708823336911215, "dur":4093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1708823336916715, "dur":12292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1708823336929054, "dur":243, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336929310, "dur":8217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1708823336937606, "dur":188, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336937847, "dur":10387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1708823336948281, "dur":359, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336948670, "dur":8320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1708823336957035, "dur":218, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336957279, "dur":10525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1708823336967910, "dur":390, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336968355, "dur":8376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1708823336976902, "dur":248, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336977185, "dur":12658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1708823336989882, "dur":347, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336990262, "dur":7838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level5.resS" }}
+,{ "pid":12345, "tid":5, "ts":1708823336998134, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1708823336998240, "dur":4923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1708823337003188, "dur":236, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336895851, "dur":4548, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336900410, "dur":792, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336901202, "dur":2790, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336903992, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1708823336912119, "dur":4108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1708823336916274, "dur":195, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336918121, "dur":11752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708823336929918, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336930015, "dur":9091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708823336939176, "dur":736, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336939991, "dur":9008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708823336949022, "dur":399, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336949454, "dur":7707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708823336957205, "dur":724, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336957960, "dur":11465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708823336969473, "dur":946, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336970440, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336970510, "dur":8686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1708823336979244, "dur":660, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336979940, "dur":7926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":6, "ts":1708823336987922, "dur":456, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1708823336988406, "dur":9775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level7" }}
+,{ "pid":12345, "tid":6, "ts":1708823336998214, "dur":5205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336897013, "dur":3694, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336900714, "dur":630, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336901344, "dur":2510, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336903861, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1708823336904657, "dur":4750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1708823336909451, "dur":539, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336911359, "dur":5333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1708823336919779, "dur":11167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708823336930997, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336941834, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336931061, "dur":10851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708823336942033, "dur":222, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336942291, "dur":7931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708823336950299, "dur":348, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336950672, "dur":11005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708823336961738, "dur":302, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336962112, "dur":9788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708823336971999, "dur":652, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336972697, "dur":11096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1708823336983890, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336984044, "dur":9644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1708823336993773, "dur":476, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1708823336994278, "dur":6592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level3.resS" }}
+,{ "pid":12345, "tid":7, "ts":1708823337000903, "dur":2596, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336896124, "dur":4287, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336900415, "dur":638, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336901053, "dur":2940, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336903994, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1708823336907183, "dur":3195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1708823336911132, "dur":4634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708823336915819, "dur":244, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336916742, "dur":11401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708823336928167, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336928326, "dur":7615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708823336935980, "dur":353, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336936359, "dur":9560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708823336945980, "dur":385, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336946460, "dur":7629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708823336954143, "dur":282, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336954453, "dur":9213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708823336963769, "dur":255, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336964047, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336964119, "dur":9001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708823336973229, "dur":862, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336974124, "dur":13167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1708823336987385, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336987903, "dur":5599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1708823336993589, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1708823336993828, "dur":5542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level4" }}
+,{ "pid":12345, "tid":8, "ts":1708823336999400, "dur":4125, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336896636, "dur":3944, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336900586, "dur":887, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336901473, "dur":2444, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336903925, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1708823336903918, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1708823336908561, "dur":2940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1708823336911557, "dur":3726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test.exe" }}
+,{ "pid":12345, "tid":9, "ts":1708823336916495, "dur":12168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708823336928688, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336928830, "dur":6551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708823336935440, "dur":415, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336935876, "dur":9530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708823336945467, "dur":982, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336946498, "dur":6789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708823336953346, "dur":648, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336954033, "dur":9520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708823336963606, "dur":423, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336964051, "dur":84, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336964141, "dur":8837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708823336973029, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336973185, "dur":11632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1708823336984863, "dur":1068, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336985963, "dur":9113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":9, "ts":1708823336995120, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1708823336995238, "dur":7012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level1.resS" }}
+,{ "pid":12345, "tid":9, "ts":1708823337002274, "dur":1172, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336896863, "dur":3768, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336900638, "dur":435, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336901073, "dur":2836, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336903910, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1708823336904046, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336918157, "dur":2524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1708823336920705, "dur":7429, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336928156, "dur":6664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":10, "ts":1708823336934911, "dur":958, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336935923, "dur":8932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1708823336944889, "dur":307, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336945246, "dur":8508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1708823336953851, "dur":640, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336954560, "dur":10057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1708823336964728, "dur":271, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336965035, "dur":10164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1708823336975248, "dur":613, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336975957, "dur":11490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1708823336987502, "dur":381, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336987905, "dur":8690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level7.resS" }}
+,{ "pid":12345, "tid":10, "ts":1708823336996632, "dur":391, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1708823336997041, "dur":5879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level0" }}
+,{ "pid":12345, "tid":10, "ts":1708823337002941, "dur":498, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708823336897147, "dur":3640, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708823336900788, "dur":3113, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708823336903926, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708823336906078, "dur":3542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":11, "ts":1708823336909665, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1708823336909716, "dur":750, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708823336913194, "dur":4024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1708823336929193, "dur":7305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708823336936542, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708823336936707, "dur":142, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708823336936854, "dur":10072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708823336947005, "dur":454, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708823336947484, "dur":6866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708823336954397, "dur":867, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708823336955316, "dur":10385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708823336965772, "dur":328, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708823336966146, "dur":9577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708823336975782, "dur":746, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708823336976668, "dur":12910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1708823336989662, "dur":659, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1708823336990388, "dur":8177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level6" }}
+,{ "pid":12345, "tid":11, "ts":1708823336998633, "dur":4787, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708823336897260, "dur":3610, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708823336900871, "dur":2976, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708823336904819, "dur":4328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/app.info" }}
+,{ "pid":12345, "tid":12, "ts":1708823336911157, "dur":4910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1708823336916092, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708823336917150, "dur":11651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708823336928821, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708823336929005, "dur":7843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708823336936937, "dur":323, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708823336937327, "dur":10003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708823336947366, "dur":515, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708823336955999, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708823336947893, "dur":8230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708823336956223, "dur":659, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708823336956910, "dur":9385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708823336966345, "dur":615, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708823336967033, "dur":9851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708823336976993, "dur":96, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708823336976990, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708823336977093, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708823336977200, "dur":19518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1708823336996755, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1708823336996960, "dur":6319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1708823336897288, "dur":3723, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1708823336901011, "dur":2908, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1708823336903919, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1708823336907934, "dur":2828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1708823336911205, "dur":5917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1708823336917164, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1708823336929049, "dur":6249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1708823336935364, "dur":478, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1708823336935868, "dur":8061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1708823336943997, "dur":1160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1708823336945171, "dur":58, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1708823336945234, "dur":6382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1708823336951730, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1708823336951932, "dur":10217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1708823336962222, "dur":525, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1708823336962779, "dur":9795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1708823336972687, "dur":588, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1708823336973675, "dur":11470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1708823336985189, "dur":735, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1708823336985952, "dur":9139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1708823336995142, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1708823336995287, "dur":7226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level1" }}
+,{ "pid":12345, "tid":13, "ts":1708823337002537, "dur":900, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1708823336897618, "dur":3544, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1708823336901162, "dur":2744, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1708823336903935, "dur":129, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":14, "ts":1708823336903907, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1708823336904067, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1708823336919301, "dur":1684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1708823336921029, "dur":7175, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1708823336928260, "dur":5840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":14, "ts":1708823336934170, "dur":868, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1708823336935124, "dur":9698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":14, "ts":1708823336944852, "dur":304, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1708823336945203, "dur":5842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1708823336951099, "dur":958, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1708823336952115, "dur":11145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1708823336963369, "dur":664, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1708823336964073, "dur":10385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1708823336974510, "dur":884, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1708823336975447, "dur":11791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1708823336987289, "dur":678, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1708823336988001, "dur":8281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":14, "ts":1708823336996369, "dur":689, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1708823336997098, "dur":5616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level0.resS" }}
+,{ "pid":12345, "tid":14, "ts":1708823337002740, "dur":702, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1708823336897479, "dur":3607, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1708823336901087, "dur":2903, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1708823336904005, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1708823336903991, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1708823336917132, "dur":2318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1708823336919507, "dur":197, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1708823336919721, "dur":11408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1708823336931174, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1708823336931363, "dur":11338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":15, "ts":1708823336942756, "dur":607, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1708823336943437, "dur":7042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1708823336950569, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1708823336950745, "dur":9912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1708823336960706, "dur":240, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1708823336960974, "dur":9820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1708823336970902, "dur":424, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1708823336971355, "dur":11165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1708823336982608, "dur":580, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1708823336983226, "dur":10678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":15, "ts":1708823336993992, "dur":250, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1708823336994268, "dur":6019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level3" }}
+,{ "pid":12345, "tid":15, "ts":1708823337000317, "dur":3194, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1708823336897916, "dur":3325, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1708823336901241, "dur":2707, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1708823336903958, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.4f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":16, "ts":1708823336903948, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1708823336909660, "dur":2260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1708823336912929, "dur":4187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1708823336917259, "dur":485, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1708823336929734, "dur":8716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1708823336938553, "dur":434, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1708823336939120, "dur":9693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1708823336948837, "dur":586, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1708823336949432, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1708823336949488, "dur":7953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1708823336957547, "dur":504, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1708823336958074, "dur":10102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1708823336968228, "dur":718, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1708823336968972, "dur":8828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1708823336977878, "dur":5291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":16, "ts":1708823336983265, "dur":681, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1708823336983971, "dur":10879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":16, "ts":1708823336994935, "dur":286, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1708823336995246, "dur":6126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/engin/OneDrive/Desktop/Mezuniyet/The Exit Test_Data/level2" }}
+,{ "pid":12345, "tid":16, "ts":1708823337001440, "dur":2039, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1708823337007334, "dur":827, "ph":"X", "name": "ProfilerWriteOutput" }
+,
